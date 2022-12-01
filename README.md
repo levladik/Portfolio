@@ -1,8 +1,8 @@
-My CV: https://levladik.github.io/vladislav_tyshenko-cv
+### My CV: https://levladik.github.io/vladislav_tyshenko-cv
 
-My projects:
+### My projects:
 
-1. Productly
+1. **Productly**
 	
 	Link: https://levladik.github.io/productly/  
 	Repository: https://github.com/levladik/productly
@@ -10,14 +10,15 @@ My projects:
 	- Adaptivity (mobile and tablet);
 	- Article filter by tags (Vanilla JS).
 
-2. Odigo
+2. **Odigo**
+
 	Link: https://levladik.github.io/odigo/  
 	Repository: https://github.com/levladik/odigo
 
  	- HTML, CSS, JS;
 	- Adaptivity (mobile and tablet);
 
-3. Calendar (in progress)
+3. **Calendar (in progress)**
 
 	Link: https://levladik.github.io/Calendar/  
 	Repository: https://github.com/levladik/Calendar
