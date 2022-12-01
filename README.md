@@ -4,7 +4,7 @@
 
 1. **Productly**
 	
-	Link: https://levladik.github.io/productly/  
+	Link: <a href="https://levladik.github.io/productly/" target="_blank">Productly</a>    
 	Repository: https://github.com/levladik/productly
 	- SASS, Webpack;
 	- Adaptivity (mobile and tablet);
@@ -12,7 +12,7 @@
 
 2. **Odigo**
 
-	Link: <a href="https://levladik.github.io/odigo/" target="_blank">Odigo</a>
+	Link: <a href="https://levladik.github.io/odigo/" target="_blank">Odigo</a>  
 	Repository: https://github.com/levladik/odigo
 
  	- HTML, CSS, JS;
@@ -20,7 +20,7 @@
 
 3. **Calendar (in progress)**
 
-	Link: https://levladik.github.io/Calendar/  
+	Link: <a href="https://levladik.github.io/Calendar/" target="_blank">Calendar</a>  
 	Repository: https://github.com/levladik/Calendar
 	
 	I'm trying to do interractive calendar using JS only.  
