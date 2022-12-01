@@ -8,11 +8,11 @@ My projects:
 	- Article filter by tags (Vanilla JS).
 
 2. Odigo: https://levladik.github.io/odigo/ 
-	- This markup was created from scratch according to Figma layout.
-	- It is adaptive for all browsers and devises.
-	- Technologies: HTML, CSS, JS.
+ 	- HTML, CSS, JS;
+	- Adaptivity (mobile and tablet);
 
 3. Calendar (in progress): https://levladik.github.io/Calendar/
 	
 	I'm trying to do interractive calendar using JS only.
+
 	For now it can set current date and change month and year via Prev/Next buttons.
