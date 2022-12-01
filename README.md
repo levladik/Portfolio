@@ -12,7 +12,7 @@
 
 2. **Odigo**
 
-	Link: https://levladik.github.io/odigo/  
+	Link: <a href="https://levladik.github.io/odigo/" target="_blank">Odigo</a>
 	Repository: https://github.com/levladik/odigo
 
  	- HTML, CSS, JS;
