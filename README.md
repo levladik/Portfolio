@@ -14,5 +14,4 @@ My projects:
 3. Calendar (in progress): https://levladik.github.io/Calendar/
 	
 	I'm trying to do interractive calendar using JS only.
-
 	For now it can set current date and change month and year via Prev/Next buttons.
