@@ -18,10 +18,8 @@
  	- HTML, CSS, JS;
 	- Adaptivity (mobile and tablet);
 
-3. **Calendar (in progress)**
+3. **Form**
 
-	Link: <a href="https://levladik.github.io/Calendar/" target="blank">Calendar</a>  
-	Repository: https://github.com/levladik/Calendar
+	Link: <a href="https://levladik.github.io/practice-1/" target="blank">Form</a>  
 	
-	I'm trying to do interractive calendar using JS only.  
-	For now it can set current date and change month and year via Prev/Next buttons.
+	Form with data validation and file upload with preview
