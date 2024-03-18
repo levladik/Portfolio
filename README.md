@@ -4,11 +4,11 @@
 
 1. **<a href="https://levladik.github.io/react-user-list/" target="blank">React User Invitation App</a>**
 
-	Repository: https://github.com/levladik/react-user-list<br>
+	Repository: https://github.com/levladik/react-user-list
 	User list with the ability to select users and send them invitations
 
 2. **<a href="https://github.com/levladik/currency-converter" target="blank">React Currency Converter</a>**
-	Repository: https://github.com/levladik/currency-converter
+	<br>Repository: https://github.com/levladik/currency-converter
 
 3. **<a href="https://levladik.github.io/productly/" target="blank">Productly</a>**
 	
