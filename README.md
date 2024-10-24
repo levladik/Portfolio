@@ -2,8 +2,8 @@
 
 ### My projects:
 
-1. **<a href="https://levladik.github.io/spaceship/ target="_blank">"Coming soon" page for the game website</a>**
-
+1. **<a href="https://levladik.github.io/spaceship/" target="_blank">Coming soon" page for the game website</a>**
+   
 	Repository: https://github.com/levladik/spaceship<br>
  	Multilayer parallax effect and spaceship appearance animation (Anime.js)
 
