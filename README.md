@@ -1,5 +1,3 @@
-### My CV: https://levladik.github.io/vladislav_tyshenko-cv
-
 ### My projects:
 
 1. **<a href="https://levladik.github.io/spaceship/" target="_blank">Coming soon" page for the game website</a>**
